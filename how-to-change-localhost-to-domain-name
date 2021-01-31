@@ -1,0 +1,11 @@
+\xampp\apache\conf\extra\httpd-vhosts.conf
+Change to 
+<VirtualHost *:80>    
+    DocumentRoot "C:/xampp/htdocs/Zion/public"
+    ServerName zion.com
+</VirtualHost>
+
+
+C:\Windows\System32\drivers\etc\hosts
+
+127.0.01 to Domain Name
